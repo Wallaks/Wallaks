@@ -8,6 +8,5 @@
 
 ![Wallaks](https://github-readme-stats.vercel.app/api?username=wallaks&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaks&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
