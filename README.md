@@ -38,12 +38,3 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
   ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
-  
-  
-<br/>
-
-<a href="https://github.com/wallaks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallaks&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
