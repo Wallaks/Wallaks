@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in Technology in systems analysis and development by the Federal Institution of Espirito Santo.
-- 💼 &nbsp; Currently working in the integration team at Conexos Clould.
+- 💼 &nbsp; Currently working as a programmer on the Matera team
 - 🌱 &nbsp; Learning about Spring Framework, integration, API, retrofit concepts and microservices.
 
 <h3> :rocket: &nbsp;My Skills </h3>
