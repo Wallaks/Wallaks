@@ -60,7 +60,7 @@ Primeiro contato com PL/SQL e desenvolvimento orientado a objetos com Java 11. A
 
 <h3>📫 Contato</h3>
 
-- LinkedIn: [linkedin.com/in/wallaks](https://www.linkedin.com/in/wallaks)
+- LinkedIn: [linkedin.com/in/wallaks](https://www.linkedin.com/in/wallakscardoso/)
 - E-mail: **wallaks.login@gmail.comm**
 
 ---
